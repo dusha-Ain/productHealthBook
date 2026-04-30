@@ -1,0 +1,6 @@
+[submodule "healthBook"]
+	path = healthBook
+	url = ../healthBook
+[submodule "healthBookMessenger"]
+	path = healthBookMessenger
+	url = ../healthBookMessenger
