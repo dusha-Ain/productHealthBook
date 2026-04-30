@@ -1,6 +1,6 @@
 [submodule "healthBook"]
 	path = healthBook
-	url = ../healthBook
+	url = https://github.com/dusha-Ain/HealthBook.git
 [submodule "healthBookMessenger"]
 	path = healthBookMessenger
-	url = ../healthBookMessenger
+	url = https://github.com/dusha-Ain/healthBookMessenger.git
