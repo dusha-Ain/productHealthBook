@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="healthBook" options="-parameters" />
+      <module name="healthBook.main" options="-parameters" />
+      <module name="healthBook.test" options="-parameters" />
+      <module name="healthBookMessenger" options="-parameters" />
+      <module name="healthBookMessenger.main" options="-parameters" />
+      <module name="healthBookMessenger.test" options="-parameters" />
+    </option>
+  </component>
+</project>
